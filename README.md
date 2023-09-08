@@ -3,6 +3,9 @@
 ## Project Description
 The "Shoe Page" project is a simple web page that showcases a single shoe product. It is designed using HTML and CSS to create an attractive and informative product display.
 
+## UI 
+![image](https://github.com/saifulislam05/shoe-page/assets/73392705/931a4471-70b1-494d-8250-5d6daefe58f9)
+
 ## HTML Structure
 
 ### Container and Wrapper (`<div class="container">`, `<div class="wrapper">`)
