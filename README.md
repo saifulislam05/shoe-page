@@ -68,8 +68,8 @@ The "Shoe Page" project is a simple web page that showcases a single shoe produc
   - `top: 10%;`: Sets the top position.
 
 - `.shoe:hover`:
- - `width: 900px;` increases the image width to 900 pixels on hover, creating a zoomed-in effect.
- - `height: 600px;` increases the image height to 600 pixels on hover, maintaining the aspect ratio for enlargement.
- - `right: 0px;` keeps the image aligned to the right edge of its container.
- - `top: 15px;` adjusts the image's vertical position 15 pixels down from its original position during hover.
+  - `width: 900px;` increases the image width to 900 pixels on hover, creating a zoomed-in effect.
+  - `height: 600px;` increases the image height to 600 pixels on hover, maintaining the aspect ratio for enlargement.
+  - `right: 0px;` keeps the image aligned to the right edge of its container.
+  - `top: 15px;` adjusts the image's vertical position 15 pixels down from its original position during hover.
 
